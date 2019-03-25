@@ -31,4 +31,7 @@ creating a new branch!!!
 name featurel test!!
 
 add merge!!!
-test merge
+test met rge
+
+git is free software!
+
